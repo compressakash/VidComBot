@@ -28,9 +28,9 @@ An example `config.py` file could be:
 from sample_config import Config
 
 class Development(Config):
-  APP_ID = 6
+  APP_ID = "15546970"
   API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-  TG_BOT_TOKEN = ""
+  TG_BOT_TOKEN = "5413543989:AAF52zMgZait3LKKxbSflRvplnAueqNEvM4"
   AUTH_USERS = [
     7351948
   ]
